@@ -1,4 +1,4 @@
-# PROJETO-SISTEMA-DE-AGENDAMENTOS-DE-SERVIÇO
+# PROJETO-SISTEMA-DE-AGENDAMENTOS-DE-SERVICO
 📅 Sistema de Agendamento de Serviços Este projeto é uma aplicação web simples para agendamento de serviços, permitindo que usuários escolham uma data, horário e confirmem sua reserva. Foi desenvolvido como prática durante meus estudos em Análise e Desenvolvimento de Sistemas, com o objetivo de aplicar conceitos de HTML, CSS e JavaScript em um projeto realista. 🚀 Objetivo Criar uma aplicação funcional para gerenciar agendamentos. Treinar habilidades de desenvolvimento front-end. Aprender a estruturar e documentar um projeto no GitHub. 🛠️ Tecnologias Utilizadas HTML5 → estrutura da aplicação. CSS3 → estilização responsiva e visual moderno. JavaScript → lógica para cadastro de agendamentos. Git/GitHub → versionamento de código e colaboração. 📚 O que eu aprendi Durante o desenvolvimento deste projeto, aprendi: A importância de planejar a estrutura de pastas e arquivos. Como usar JavaScript para manipular o DOM e armazenar informações temporariamente. Praticar versionamento com git(commits, branches push e pull).
 
 
